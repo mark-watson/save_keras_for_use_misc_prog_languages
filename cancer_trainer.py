@@ -1,3 +1,5 @@
+# Copyright 2015-2018 Mark Watson. All rights reserved. Released under Apache 2 license.
+
 from keras.layers import Input, Dense, Dropout
 from keras.models import Model
 import numpy as np
