@@ -11,6 +11,10 @@ Shapes and output CSV files:
 
 The first two layers use a RELU and the last (third) layer uses a Sigmoid
 
+## Donate on Patreon to support all of my projects
+
+Please visit [https://www.patreon.com/markwatson](https://www.patreon.com/markwatson) and sign up to donate $1/month
+
 ## Keras Deep Neural Network using Breast Cancer Data with Explanation of Predictions
 
 This model is trained on 497 training examples and is tested for accuracy on 151 different testing examples. The accuracy is about 97%.
